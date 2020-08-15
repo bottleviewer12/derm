@@ -153,7 +153,7 @@ function App() {
       columnNumber: 9
     }
   }, /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("a", {
-    href: "https://afflat3d1.com/lnk.asp?o=13904&c=918277&a=240071&k=0&l=14627",
+    href: "#",
     __self: this,
     __source: {
       fileName: _jsxFileName,
@@ -169,7 +169,7 @@ function App() {
     __source: {
       fileName: _jsxFileName,
       lineNumber: 16,
-      columnNumber: 89
+      columnNumber: 23
     }
   }))), /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("p", {
     __self: this,
@@ -187,7 +187,7 @@ function App() {
       columnNumber: 9
     }
   }, /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("a", {
-    href: "https://afflat3d1.com/lnk.asp?o=13904&c=918277&a=240071&k=0&l=14627",
+    href: "#",
     __self: this,
     __source: {
       fileName: _jsxFileName,
@@ -203,7 +203,7 @@ function App() {
     __source: {
       fileName: _jsxFileName,
       lineNumber: 20,
-      columnNumber: 87
+      columnNumber: 21
     }
   }))), /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("p", {
     __self: this,
@@ -221,7 +221,7 @@ function App() {
       columnNumber: 9
     }
   }, /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("a", {
-    href: "https://afflat3d1.com/lnk.asp?o=13904&c=918277&a=240071&k=0&l=14627",
+    href: "#",
     __self: this,
     __source: {
       fileName: _jsxFileName,
@@ -237,7 +237,7 @@ function App() {
     __source: {
       fileName: _jsxFileName,
       lineNumber: 26,
-      columnNumber: 88
+      columnNumber: 22
     }
   }))), /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("p", {
     __self: this,
@@ -255,7 +255,7 @@ function App() {
       columnNumber: 9
     }
   }, /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("a", {
-    href: "https://afflat3d1.com/lnk.asp?o=13904&c=918277&a=240071&k=0&l=14627",
+    href: "#",
     __self: this,
     __source: {
       fileName: _jsxFileName,
@@ -271,7 +271,7 @@ function App() {
     __source: {
       fileName: _jsxFileName,
       lineNumber: 32,
-      columnNumber: 87
+      columnNumber: 21
     }
   }))), /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("p", {
     __self: this,
